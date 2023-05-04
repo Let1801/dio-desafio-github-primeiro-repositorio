@@ -1,1 +1,7 @@
-O Git Bash é um terminal extendido para otimizar o uso do git.
+- O Git Bash é um terminal extendido para otimizar o uso do git.
+
+- Listar - ls
+- Ir para as pastas - cd/
+- limpar o terminal - cls
+- Criar pasta - mkdir
+-
